@@ -2,11 +2,11 @@
 layout: post
 title: Peleas 
 subtitle: UFC 
-categories: MMA Brandon Moreno
-tags: [MMA, UFC]
+categories: MMA 
+tags: [MMA, UFC, Brandon Moreno]
 ---
 
-## Espero estar subiendo peleas interesantes para poder analizarlas despues. 
+## Esta es la pelea de Brandon Moreno. 
 
 
 <object width="425" height="350">
