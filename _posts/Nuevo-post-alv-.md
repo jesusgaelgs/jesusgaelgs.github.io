@@ -1,0 +1,18 @@
+---
+layout: post
+title: Peleas 
+subtitle: UFC 
+categories: MMA Brandon Moreno
+tags: [MMA, UFC]
+---
+
+## Espero estar subiendo peleas interesantes para poder analizarlas despues. 
+
+
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=uhHJcC0roI0" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=uhHJcC0roI0"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
