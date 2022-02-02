@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Este es mi primera interaccion con Github!.
+Este es mi primera interaccion con Github!
