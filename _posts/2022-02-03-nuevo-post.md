@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peleas 
+title: No se pudo bandita 
 subtitle: UFC 
 categories: MMA
 tags: [MMA, UFC, No supo el sonso]
