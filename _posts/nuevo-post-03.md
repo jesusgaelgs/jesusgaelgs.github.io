@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Peleas 
-subtitle: UFC 
+title: Lo intente 
+subtitle: UFC
 categories: MMA
 tags: [MMA, UFC, No supo el sonso]
 ---
